@@ -3,7 +3,7 @@ This is a basic technical documentation page that utilizes HTML and CSS.
 
 ## Motivation
 
-Become more familar with HTML 5 and CSS3.  Build my skills as a developer.  The ultimate goal is to become a Front-end developer in 2021.  I will be doing projects from freecodecamp.org and other resources in order to obtain my first developer position.  I built a basic technical documentation page to become more familiar with how a Wikipedia page works.  This is also a simple example of a basic technical documentation page that is simliar to a Wikipedia page. 
+Become more familar with HTML 5 and CSS3 grid with a navbar.  Build my skills as a developer.  The ultimate goal is to become a Front-end developer in 2021.  I will be doing projects from freecodecamp.org and other resources in order to obtain my first developer position.  I built a basic technical documentation page to become more familiar with how a Wikipedia page works.  This is also a simple example of a basic technical documentation page that is simliar to a Wikipedia page. 
 
 ## Instructions
 
